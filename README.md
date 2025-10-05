@@ -2,7 +2,7 @@
 
 Tambien conocido como dssuarezca en github
 
-## ¿Quien soy?**
+## ¿Quien soy?
 
 👦🏻 Soy analista de datos con experiencia en modelar, transformar y brindar insights valiosos para la toma de decisiones estratégicas. Tengo conocimiento en herramientas como Python, SQL y Power BI, cuento con pensamiento analítico para identificar patrones, tendencias y correlaciones, capacidad para crear reportes claros, dashboard interactivos e intuitivos para cualquier persona no técnica. habilidad para planificar las tareas y priorizarlas en el menor tiempo posible, además poder definir objetivos claros para cumplirlos en el tiempo estimado.
 
