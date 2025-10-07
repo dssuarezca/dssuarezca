@@ -27,4 +27,4 @@ Tambien conocido como dssuarezca en github
 
 ## 📞  No dudes en contactarme
 
-linkedin: www.linkedin.com/in/daniel-stivens-suarez-cabrejo-10954694 correo: dssuarezc@hotmail.es cel: 3042157478
+linkedin: www.linkedin.com/in/daniel-stivens-suarez-cabrejo-10954694 correo: dssuarezc@hotmail.es cel: 3042157478 ubicacion: Bogota DC/Colombia
